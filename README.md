@@ -1,4 +1,4 @@
-HEy Everyone 
+HEY Everyone 
 I created my First project on 3d web development using Three.js
 
 Link to view is 
